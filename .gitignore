@@ -1,0 +1,7 @@
+node_modules
+dist
+*.local
+qa-*.png
+test-results
+playwright-report
+*.tsbuildinfo

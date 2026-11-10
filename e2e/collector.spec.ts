@@ -1,0 +1,32 @@
+import {test,expect} from '@playwright/test';
+test('walk, serials, offline persistence, setup and export validation',async({page,context})=>{
+ const errors:string[]=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('/');await expect(page.getByRole('heading',{name:'My sites.'})).toBeVisible();
+ await page.screenshot({path:'qa-dashboard.png',fullPage:true});
+ await page.getByRole('link',{name:'North Sample Farm S100'}).click();
+ await expect(page.getByRole('heading',{name:'Walk & collect.'})).toBeVisible();
+ await page.getByRole('button',{name:'Edit Ambient Gas Heater'}).click();
+ await expect(page.getByRole('dialog')).toBeVisible();
+ await page.getByPlaceholder('Type serial').nth(0).fill('HEAT-001');await page.getByPlaceholder('Type serial').nth(1).fill('HEAT-002');
+ await page.getByRole('dialog').getByLabel('Install date',{exact:true}).fill('2026-01-01');
+ await page.getByPlaceholder('Enter manufacturer').fill('FieldCo');await page.getByRole('button',{name:'Save item'}).click();
+ await expect(page.getByRole('dialog')).toHaveCount(0);await page.getByRole('button',{name:'All',exact:true}).click();
+ await expect(page.getByRole('button',{name:'Edit Ambient Gas Heater'})).toBeVisible();
+ await page.evaluate(async()=>{await navigator.serviceWorker.ready;});
+ await page.waitForFunction(()=>!!navigator.serviceWorker.controller);
+ await context.setOffline(true);await page.reload();await expect(page.getByText('Offline',{exact:true})).toBeVisible();
+ await page.getByRole('button',{name:'All',exact:true}).click();await page.getByRole('button',{name:'Edit Ambient Gas Heater'}).click();
+ await expect(page.getByPlaceholder('Type serial').nth(0)).toHaveValue('HEAT-001');await page.getByPlaceholder('Enter manufacturer').fill('OfflineCo');
+ await page.getByRole('button',{name:'Save item'}).click();await expect(page.getByRole('dialog')).toHaveCount(0);
+ await page.reload();await page.getByRole('button',{name:'All',exact:true}).click();await page.getByRole('button',{name:'Edit Ambient Gas Heater'}).click();
+ await expect(page.getByPlaceholder('Enter manufacturer')).toHaveValue('OfflineCo');await page.getByRole('button',{name:'Close item sheet'}).click();
+ await context.setOffline(false);await page.getByRole('link',{name:'Review & export',exact:true}).click();await expect(page.getByRole('button',{name:'Download import CSV',exact:true})).toBeDisabled();
+ await page.getByRole('link',{name:'My sites',exact:true}).first().click();await page.getByRole('link',{name:'East Sample Truck Wash S200'}).click();
+ await expect(page.getByRole('heading',{name:'Set up your site.'})).toBeVisible();await page.getByRole('button',{name:'Generate collection'}).click();await expect(page.getByRole('heading',{name:'Walk & collect.'})).toBeVisible();
+ await page.getByRole('button',{name:'All',exact:true}).click();
+ for(const name of ['Ceiling Inlet','Ambient Gas Heater','Nipple Drinkers']){await page.getByRole('button',{name:`Edit ${name}`}).click();await page.getByRole('dialog').getByLabel('Install date',{exact:true}).fill('2026-01-01');await page.getByPlaceholder('Enter manufacturer').fill('FieldCo');if(name==='Ambient Gas Heater'){await page.getByPlaceholder('Type serial').nth(0).fill('WASH-001');await page.getByPlaceholder('Type serial').nth(1).fill('WASH-002');}await page.getByRole('button',{name:'Save item'}).click();await expect(page.getByRole('dialog')).toHaveCount(0);}
+ await page.getByRole('link',{name:'Review & export',exact:true}).click();await expect(page.getByText('Ready to export',{exact:true})).toBeVisible();
+ const download=page.waitForEvent('download');await page.getByRole('button',{name:'Download with header row'}).click();expect((await download).suggestedFilename()).toMatch(/^ASSET_LOAD_\d+_headers.csv$/);
+ expect(errors).toEqual([]);
+});
+test('mobile dashboard fits the viewport',async({page})=>{await page.setViewportSize({width:390,height:844});await page.goto('/');await expect(page.getByRole('heading',{name:'My sites.'})).toBeVisible();await page.screenshot({path:'qa-mobile.png',fullPage:true});expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBe(true);});
