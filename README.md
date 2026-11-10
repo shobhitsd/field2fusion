@@ -21,4 +21,12 @@ Category A requires unique serials for each unit. Category B creates per-unit re
 
 Background sync is deliberately simulated as requested. It acknowledges and removes queued operations after a delay when online. It does not send records to an enterprise system. Replace the mock acknowledgement in `drainQueue` with authenticated, idempotent server acknowledgements before using this as a shared enterprise system. User DE is a demonstration identity and admin views are local utilities, not an authorization boundary. Browser storage is device/profile-specific and may be cleared; download CSV backups. Production rollout needs organization-specific authentication, permissions, retention, recovery and real sync integration.
 
-The included catalog contains the three requested assets. JSON import supports new site records; catalog and room templates are versioned in source.
+The original sample collection is preserved. The reference catalog now contains 550 definitions derived from the supplied equipment workbook and facility diagrams. Administrators can preview and import CSV/Excel site and equipment-template files. Duplicate SITE_ID rows may represent distinct site-role assignments; these are retained separately. Existing collections keep their generated equipment list.
+
+## Updated workflow
+
+The larger interface guides users through setup, collection, review/approval and export. Drafts are stored locally while typing. Reviewers can return a collection or an individual record with comments. Site and equipment edits reset approval. Export downloads are retained with unique batch codes; subsequent cycles retain prior inventory snapshots and show changes.
+
+The available CSV is a collection handoff format. It is **not** an Oracle-validated FBDI file: the production Asset Load schema is not in the supplied folder. Entra ID, backend synchronization, Oracle submission/reconciliation and organization permissions remain integration boundaries, clearly described in [the project review](docs/PROJECT-REVIEW.md).
+
+Run `npm run test:e2e` against `npx vite preview --host 127.0.0.1 --port 4173` after building. The Playwright configuration uses the local Chrome installation; adjust its executable path on another machine. `npm test` runs the IndexedDB/workflow tests.
