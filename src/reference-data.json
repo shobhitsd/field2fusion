@@ -3843,7 +3843,7 @@
     "id": "ece3090f8ff4",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Fire",
     "category": "C",
@@ -3852,13 +3852,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "557be1e50a6d",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Generator",
     "category": "A",
@@ -3867,13 +3867,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7a7b70e800f4",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Branch Equipment",
     "category": "B",
@@ -3882,13 +3882,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "996ef473e209",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Panelboards",
     "category": "B",
@@ -3897,14 +3897,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4f7659aacf4a",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Building Foundation",
     "category": "A",
     "quantity": 1,
@@ -3912,14 +3912,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "fb2622b0d060",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Ceiling Surface",
     "category": "B",
     "quantity": 1,
@@ -3927,14 +3927,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8663408c94a2",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Conditioning",
     "category": "C",
     "quantity": 1,
@@ -3942,14 +3942,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "662fe77ceb2e",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Gas",
     "name": "Gas – Regulators",
     "category": "C",
     "quantity": 1,
@@ -3957,14 +3957,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2c368f684933",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Landscaping",
     "category": "C",
     "quantity": 1,
@@ -3972,14 +3972,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "26ab3f825e98",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "HVAC",
     "name": "HVAC - RTU",
     "category": "A",
     "quantity": 1,
@@ -3987,14 +3987,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "0f9535e7a4de",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "HVAC",
     "name": "HVAC – AC Compressors",
     "category": "B",
     "quantity": 1,
@@ -4002,14 +4002,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "00ce04c3b15a",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds - Roads/Parking",
     "category": "C",
     "quantity": 1,
@@ -4017,14 +4017,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d272c2aaf434",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Roofing",
     "category": "A",
     "quantity": 1,
@@ -4032,14 +4032,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2e0173a940dc",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Siding Interior",
     "category": "B",
     "quantity": 1,
@@ -4047,14 +4047,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "125ae8ae3850",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water - Supply System",
     "category": "A",
     "quantity": 1,
@@ -4062,14 +4062,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bf46558a162b",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water - System Controller",
     "category": "C",
     "quantity": 1,
@@ -4077,14 +4077,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "cc5e61063f40",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Trusses",
     "category": "A",
     "quantity": 1,
@@ -4092,14 +4092,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b904dab2cb1f",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water - Valves",
     "category": "C",
     "quantity": 1,
@@ -4107,14 +4107,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "0a1059193fdb",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Vegetation",
     "category": "C",
     "quantity": 1,
@@ -4122,14 +4122,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1a6af7d1c160",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Water Filtration System",
     "category": "C",
     "quantity": 1,
@@ -4137,14 +4137,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "49337f326e6d",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Pressure Tank",
     "category": "C",
     "quantity": 1,
@@ -4152,14 +4152,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "876fc7ab117b",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Septic",
     "name": "Septic – Pump",
     "category": "A",
     "quantity": 1,
@@ -4167,13 +4167,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "76043f7bd8f5",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Cameras",
     "category": "C",
@@ -4182,13 +4182,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "0b62c7437038",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Electrical Monitoring System",
     "category": "A",
@@ -4197,13 +4197,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2c9e6e4d8e9d",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Building Monitoring System",
     "category": "B",
@@ -4212,13 +4212,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "01c89c1b5a53",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Intrusion Alarm",
     "category": "B",
@@ -4227,13 +4227,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e11bd97f252b",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Communications Switch",
     "category": "C",
@@ -4242,13 +4242,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "186c239cb529",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Fences and Gates",
     "category": "C",
@@ -4257,13 +4257,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d66b40cade46",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "UPS",
     "category": "C",
@@ -4272,13 +4272,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3450232127cc",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Signage",
     "category": "C",
@@ -4287,13 +4287,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e98bb7f6b6ef",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "PPE",
     "category": "C",
@@ -4302,13 +4302,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "deebd11b7151",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "First Aid",
     "category": "C",
@@ -4317,13 +4317,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c47e34f20e49",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Utility",
     "category": "C",
@@ -4332,13 +4332,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c1682f03cf22",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Service Main",
     "category": "A",
@@ -4347,13 +4347,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d1ff57104a69",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "ATS",
     "category": "A",
@@ -4362,13 +4362,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6ce8349e4997",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Switchboards",
     "category": "C",
@@ -4377,13 +4377,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "433ea72ba6a3",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Lighting",
     "category": "C",
@@ -4392,14 +4392,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7d890f575f6f",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Gas",
     "name": "Gas – Meter",
     "category": "C",
     "quantity": 1,
@@ -4407,14 +4407,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "610b639dd12f",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Exterior Concrete",
     "category": "C",
     "quantity": 1,
@@ -4422,14 +4422,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4c60a54e9a3f",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Gas",
     "name": "Gas – Valves",
     "category": "C",
     "quantity": 1,
@@ -4437,14 +4437,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5ff7bcd89b8f",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Heating System",
     "category": "C",
     "quantity": 1,
@@ -4452,14 +4452,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6f1b5ed842ba",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Water Meter (Analog)",
     "category": "C",
     "quantity": 1,
@@ -4467,14 +4467,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a28cd7688517",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "IT",
     "name": "IT – Server Rack",
     "category": "A",
     "quantity": 1,
@@ -4482,14 +4482,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "07fad04087f5",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "IT",
     "name": "IT – ISP Modem",
     "category": "B",
     "quantity": 1,
@@ -4497,14 +4497,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "29686c94c4d1",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "IT",
     "name": "IT – UPS/Power Supply",
     "category": "C",
     "quantity": 1,
@@ -4512,14 +4512,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7ed2ca437b34",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Septic",
     "name": "Septic – Lift Station",
     "category": "A",
     "quantity": 1,
@@ -4527,14 +4527,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "03b3de0cab10",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Water",
     "name": "Water – Pumps",
     "category": "C",
     "quantity": 1,
@@ -4542,14 +4542,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f688e505d8b3",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "HVAC",
     "name": "HVAC – Air Exchangers",
     "category": "B",
     "quantity": 1,
@@ -4557,13 +4557,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c8b1c4128b54",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Mechanical",
     "subsystem": "",
     "name": "HVAC –Unti Heaters",
     "category": "B",
@@ -4572,13 +4572,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e26ab7887253",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Mechanical",
     "subsystem": "",
     "name": "HVAC –VAV",
     "category": "B",
@@ -4587,13 +4587,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4f7d7c3953fc",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Mechanical",
     "subsystem": "",
     "name": "HVAC –Gas Fireplace",
     "category": "B",
@@ -4602,14 +4602,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "fff43002bea4",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Ovens",
     "category": "C",
     "quantity": 1,
@@ -4617,14 +4617,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "81cf493ee7b1",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Refridgerator",
     "category": "C",
     "quantity": 1,
@@ -4632,14 +4632,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2381646dd4fb",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Freezers",
     "category": "C",
     "quantity": 1,
@@ -4647,14 +4647,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "16418b9e5347",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Washers",
     "category": "C",
     "quantity": 1,
@@ -4662,14 +4662,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3057240772b3",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Dryers",
     "category": "C",
     "quantity": 1,
@@ -4677,14 +4677,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "112379178927",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Ice Maker",
     "category": "C",
     "quantity": 1,
@@ -4692,14 +4692,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e868fbada6d3",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Dish Washer",
     "category": "C",
     "quantity": 1,
@@ -4707,14 +4707,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c015ba62298c",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Garbage Disposal",
     "category": "C",
     "quantity": 1,
@@ -4722,14 +4722,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "22871176d1cc",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Fountain Soda Machine",
     "category": "C",
     "quantity": 1,
@@ -4737,14 +4737,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "52c28823e8c1",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Mechanical",
+    "subsystem": "Appliances",
     "name": "Appliances – Commercial Coffee Maker",
     "category": "C",
     "quantity": 1,
@@ -4752,13 +4752,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3c14743b448b",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Main Controller",
     "category": "A",
@@ -4767,13 +4767,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6d5f1f7a9ea4",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Room Sensors",
     "category": "C",
@@ -4782,13 +4782,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e01a01e73cbe",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Supply Sensors",
     "category": "C",
@@ -4797,13 +4797,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dca2f0c613c6",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Zone Controller",
     "category": "C",
@@ -4812,13 +4812,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ec9519ca628c",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Single Controller",
     "category": "C",
@@ -4827,13 +4827,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "26689af76d20",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Outdoor Air Sensor",
     "category": "C",
@@ -4842,13 +4842,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "237f33e39366",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Zone Danger Sensors",
     "category": "C",
@@ -4857,14 +4857,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2583c43023d9",
     "facility": "Office",
     "location": "Office",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Gas",
     "name": "Gas – Piping System",
     "category": "C",
     "quantity": 1,
@@ -4872,13 +4872,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Office.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dae9e2f42e3a",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Eyewash Station",
     "category": "C",
@@ -4887,13 +4887,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "0409e5a6b3d0",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Generator",
     "category": "A",
@@ -4902,13 +4902,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8bee9848e31a",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Branch Equipment",
     "category": "B",
@@ -4917,13 +4917,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "34a089c306c7",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Panelboards",
     "category": "B",
@@ -4932,13 +4932,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "61d2e03674fb",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Bin Level Sensor",
     "category": "B",
@@ -4947,14 +4947,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bd418a7fcd60",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Building Foundation",
     "category": "A",
     "quantity": 1,
@@ -4962,14 +4962,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "82c0392f5d1e",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Ceiling Surface",
     "category": "B",
     "quantity": 1,
@@ -4977,14 +4977,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "681fdc807787",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Landscaping",
     "category": "C",
     "quantity": 1,
@@ -4992,14 +4992,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "fa183d6b95ad",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Office Filters",
     "category": "C",
     "quantity": 1,
@@ -5007,14 +5007,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "145d1e13e3be",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Temp Bearing Scanners",
     "category": "B",
     "quantity": 1,
@@ -5022,14 +5022,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5d56de91ca3c",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds - Roads/Parking",
     "category": "C",
     "quantity": 1,
@@ -5037,14 +5037,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5e3a5c599a46",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Roofing",
     "category": "A",
     "quantity": 1,
@@ -5052,14 +5052,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "00fbf051d555",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Siding Interior",
     "category": "B",
     "quantity": 1,
@@ -5067,14 +5067,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "cb5844e49ea5",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Trusses",
     "category": "A",
     "quantity": 1,
@@ -5082,14 +5082,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "9fa58f849aae",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Vegetation",
     "category": "C",
     "quantity": 1,
@@ -5097,13 +5097,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "cdf0a56beebb",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Ingredient Spouting",
     "category": "B",
@@ -5112,13 +5112,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "410ea3a8e34e",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Corn Drag",
     "category": "B",
@@ -5127,13 +5127,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dc7b7bd653ba",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Ingredient Distributer",
     "category": "B",
@@ -5142,13 +5142,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ad238b27dd26",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Top Ingredient Transfer Drag",
     "category": "B",
@@ -5157,13 +5157,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ae47833f3a6f",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Spouting",
     "category": "B",
@@ -5172,13 +5172,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3187cf6fdde4",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Ingredient Leg",
     "category": "C",
@@ -5187,13 +5187,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ad6589f8e950",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Leg",
     "category": "C",
@@ -5202,13 +5202,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dc4260953dee",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Dust Fan",
     "category": "B",
@@ -5217,13 +5217,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ba56f9af9168",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Dust Filter",
     "category": "C",
@@ -5232,13 +5232,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "0518e382ba96",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Dust Airlock",
     "category": "C",
@@ -5247,13 +5247,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "84e17eb814e0",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "AED",
     "category": "C",
@@ -5262,13 +5262,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "97d22374dd33",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Main Lift",
     "category": "A",
@@ -5277,13 +5277,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ccd2fdbee1ed",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Building Monitoring System",
     "category": "B",
@@ -5292,13 +5292,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8734b4451d95",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Intrusion Alarm",
     "category": "B",
@@ -5307,13 +5307,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "9c8c6b826b3d",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Communications Switch",
     "category": "C",
@@ -5322,13 +5322,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "99475a293bf2",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Fences and Gates",
     "category": "C",
@@ -5337,13 +5337,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "438f710a5814",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "UPS",
     "category": "C",
@@ -5352,13 +5352,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "af8d50dd8ff6",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Signage",
     "category": "C",
@@ -5367,13 +5367,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c0a0a656e51e",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Pallet Lift",
     "category": "A",
@@ -5382,13 +5382,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "df328020d039",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "PPE",
     "category": "C",
@@ -5397,13 +5397,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5c082fb0547c",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "First Aid Station",
     "category": "C",
@@ -5412,13 +5412,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "08a46a38f80e",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Utility",
     "category": "C",
@@ -5427,13 +5427,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "692bf40e7ffb",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Service Main",
     "category": "A",
@@ -5442,13 +5442,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e36c400b3898",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "ATS",
     "category": "A",
@@ -5457,13 +5457,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4133f28dbace",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Switchboards",
     "category": "C",
@@ -5472,13 +5472,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2cc27e225df0",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Lighting",
     "category": "C",
@@ -5487,13 +5487,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "782e908f797d",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Temp Sensor",
     "category": "C",
@@ -5502,13 +5502,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c911f13a3541",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Humidity Sensor",
     "category": "C",
@@ -5517,13 +5517,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "83b054407b49",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Gas Sensor (H2S, CO, CO2, NH3)",
     "category": "C",
@@ -5532,13 +5532,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "992e23ee7326",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Static Air Sensor",
     "category": "C",
@@ -5547,13 +5547,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "04dbe4200abf",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Override Sensor",
     "category": "C",
@@ -5562,13 +5562,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d774f8afeaf4",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Weather Sensor",
     "category": "C",
@@ -5577,14 +5577,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "96678ddfba4d",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Insulation",
     "category": "B",
     "quantity": 1,
@@ -5592,14 +5592,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b2c9d656a61f",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – Server Rack",
     "category": "C",
     "quantity": 1,
@@ -5607,14 +5607,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d4038ef075b8",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – ISP Modem",
     "category": "C",
     "quantity": 1,
@@ -5622,14 +5622,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d1b5cd9fceb6",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – UPS/Power Supply",
     "category": "C",
     "quantity": 1,
@@ -5637,13 +5637,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a7b74d21c306",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Dust Auger",
     "category": "C",
@@ -5652,13 +5652,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6ebac9ea0c6f",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Whole Grain Pit Drag Conveyor",
     "category": "C",
@@ -5667,13 +5667,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d9315b12a125",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Ingredient Pit Conveyor",
     "category": "B",
@@ -5682,13 +5682,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "30df90a18e49",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Transfer Conveyor",
     "category": "C",
@@ -5697,13 +5697,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8349359a3110",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Receiving Truck Scale (Inbound)",
     "category": "C",
@@ -5712,13 +5712,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1f7f9616cfd0",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Hydraulic Probe Sampler",
     "category": "C",
@@ -5727,13 +5727,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "173d0b1c1d38",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Grease Distributer",
     "category": "C",
@@ -5742,13 +5742,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7cf76501ab25",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gearbox",
     "category": "C",
@@ -5757,13 +5757,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7c91154ca745",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Receiving House Bag",
     "category": "C",
@@ -5772,13 +5772,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2d20a5c35bac",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Breakers",
     "category": "C",
@@ -5787,14 +5787,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "be9c0d6e4253",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Furnace Filters",
     "category": "C",
     "quantity": 1,
@@ -5802,14 +5802,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "cfb4cd46c244",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Boiler",
     "category": "A",
     "quantity": 1,
@@ -5817,14 +5817,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "186c2451fe6b",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Steam Traps",
     "category": "C",
     "quantity": 1,
@@ -5832,13 +5832,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "eb23d5c83c3f",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Vehicle",
     "subsystem": "",
     "name": "Fork LIft",
     "category": "A",
@@ -5847,13 +5847,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "04d64c2fe41c",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Vehicle",
     "subsystem": "",
     "name": "Skidsteer",
     "category": "A",
@@ -5862,14 +5862,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3b5d3b460e05",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Oiler",
     "category": "B",
     "quantity": 1,
@@ -5877,14 +5877,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "261851f418a7",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid Alimet System",
     "category": "B",
     "quantity": 1,
@@ -5892,14 +5892,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e377dd8ca452",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid L-lysine  System",
     "category": "B",
     "quantity": 1,
@@ -5907,14 +5907,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b00e7f026e81",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Fat Storage Tank",
     "category": "B",
     "quantity": 1,
@@ -5922,14 +5922,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "67a5dd2d4ba9",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Wash Mill",
     "category": "B",
     "quantity": 1,
@@ -5937,14 +5937,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "23591c66c1cd",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Air Compressor",
     "category": "B",
     "quantity": 1,
@@ -5952,14 +5952,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "398432ba8c14",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Grain Dryer",
     "category": "B",
     "quantity": 1,
@@ -5967,13 +5967,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "20bfa27c757f",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Feed Boots",
     "category": "B",
@@ -5982,13 +5982,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "332350c1a43a",
     "facility": "Feed Mill",
     "location": "Recieving",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gating",
     "category": "C",
@@ -5997,13 +5997,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page1.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4342561b594a",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Eyewash Station",
     "category": "C",
@@ -6012,13 +6012,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a8664e95800a",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Generator",
     "category": "A",
@@ -6027,13 +6027,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a36854ac554d",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Branch Equipment",
     "category": "B",
@@ -6042,13 +6042,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "53c7c9abc316",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Panelboards",
     "category": "B",
@@ -6057,13 +6057,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "437e7493019d",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Bin Level Sensor",
     "category": "B",
@@ -6072,14 +6072,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1318ed2da4bf",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Building Foundation",
     "category": "A",
     "quantity": 1,
@@ -6087,14 +6087,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f4519b02390b",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Ceiling Surface",
     "category": "B",
     "quantity": 1,
@@ -6102,14 +6102,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c9d03055d341",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Landscaping",
     "category": "C",
     "quantity": 1,
@@ -6117,14 +6117,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "967631723803",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Office Filters",
     "category": "C",
     "quantity": 1,
@@ -6132,14 +6132,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e20aab6ab6d6",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Temp Bearing Scanners",
     "category": "B",
     "quantity": 1,
@@ -6147,14 +6147,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ac73ffeeb68c",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds - Roads/Parking",
     "category": "C",
     "quantity": 1,
@@ -6162,14 +6162,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "aee19a6ee2c6",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Roofing",
     "category": "A",
     "quantity": 1,
@@ -6177,14 +6177,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "35da2f71b1bb",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Siding Interior",
     "category": "B",
     "quantity": 1,
@@ -6192,14 +6192,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d85db4dfebaa",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Trusses",
     "category": "A",
     "quantity": 1,
@@ -6207,14 +6207,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "be19343bf418",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Vegetation",
     "category": "C",
     "quantity": 1,
@@ -6222,13 +6222,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c597e4257ab2",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Screw Conveyor",
     "category": "B",
@@ -6237,13 +6237,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5221d99b2a6a",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Whole Grain Cleaner Scalper",
     "category": "B",
@@ -6252,13 +6252,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d84ec0997115",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Ground Corn Spouting",
     "category": "B",
@@ -6267,13 +6267,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1dfcc42f844a",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Ground Corn Leg",
     "category": "B",
@@ -6282,13 +6282,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "784b7cd3eebe",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Ground Corn Reclaim Conveyor",
     "category": "B",
@@ -6297,13 +6297,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3aa19117c210",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Grinding Air Assist Dyst System",
     "category": "B",
@@ -6312,13 +6312,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b1df4664e9eb",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Roller Mills",
     "category": "C",
@@ -6327,13 +6327,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "260f4acc51cd",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Spouting from Reclaim Leg to Scalper",
     "category": "B",
@@ -6342,13 +6342,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ee4bd7e61604",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Grain Reclaim Leg",
     "category": "C",
@@ -6357,13 +6357,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "01c781bf35a1",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Whole Reclaim Conveyor",
     "category": "C",
@@ -6372,13 +6372,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "94496a44f7a2",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "AED",
     "category": "C",
@@ -6387,13 +6387,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "131ef7089b29",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Main Lift",
     "category": "A",
@@ -6402,13 +6402,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6c0c3de1b9d1",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Building Monitoring System",
     "category": "B",
@@ -6417,13 +6417,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "01eb4daff83b",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Intrusion Alarm",
     "category": "B",
@@ -6432,13 +6432,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "69cf174ab3a3",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Communications Switch",
     "category": "C",
@@ -6447,13 +6447,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e38cb0fdc2f6",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Fences and Gates",
     "category": "C",
@@ -6462,13 +6462,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "29512bd21478",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "UPS",
     "category": "C",
@@ -6477,13 +6477,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a380168da5ac",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Signage",
     "category": "C",
@@ -6492,13 +6492,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "54e4cc593fbc",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Pallet Lift",
     "category": "A",
@@ -6507,13 +6507,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2f8577a95d60",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "PPE",
     "category": "C",
@@ -6522,13 +6522,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "46fdb0c78c37",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "First Aid Station",
     "category": "C",
@@ -6537,13 +6537,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "7a4e0e0b41ed",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Utility",
     "category": "C",
@@ -6552,13 +6552,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "52c6a64e8629",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Service Main",
     "category": "A",
@@ -6567,13 +6567,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "557ff8c5aed6",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "ATS",
     "category": "A",
@@ -6582,13 +6582,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5c70f488e04d",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Switchboards",
     "category": "C",
@@ -6597,13 +6597,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "babba90aa2d2",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Lighting",
     "category": "C",
@@ -6612,13 +6612,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ebf3d4c5a3a4",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Temp Sensor",
     "category": "C",
@@ -6627,13 +6627,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "821b51d3fc0d",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Humidity Sensor",
     "category": "C",
@@ -6642,13 +6642,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "319555996d5c",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Gas Sensor (H2S, CO, CO2, NH3)",
     "category": "C",
@@ -6657,13 +6657,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5f0b773e950b",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Static Air Sensor",
     "category": "C",
@@ -6672,13 +6672,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1ed538dbce08",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Override Sensor",
     "category": "C",
@@ -6687,13 +6687,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6373f0a3e26c",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Weather Sensor",
     "category": "C",
@@ -6702,14 +6702,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "302aa5571283",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Insulation",
     "category": "B",
     "quantity": 1,
@@ -6717,14 +6717,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a387e152bd35",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – Server Rack",
     "category": "C",
     "quantity": 1,
@@ -6732,14 +6732,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8f5a363b83fc",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – ISP Modem",
     "category": "C",
     "quantity": 1,
@@ -6747,14 +6747,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "afa113f9a055",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – UPS/Power Supply",
     "category": "C",
     "quantity": 1,
@@ -6762,13 +6762,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "734d787c4462",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Grinding System Whole Grain Silo Gates",
     "category": "B",
@@ -6777,13 +6777,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dae65a89bb51",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Electric Motors",
     "category": "C",
@@ -6792,13 +6792,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c03e3cd9b8bb",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Gates (Scales, Roller and Slides)",
     "category": "B",
@@ -6807,13 +6807,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3b92b3a2e773",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mixed Feed Reclaim Conveyor",
     "category": "C",
@@ -6822,13 +6822,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4dbb785aff0f",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mixed Feed Leg",
     "category": "C",
@@ -6837,13 +6837,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "304d870d20eb",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mash Feed Transfer Drag",
     "category": "C",
@@ -6852,13 +6852,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c6e79892ee9e",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Gyro Feed Cleaner",
     "category": "B",
@@ -6867,13 +6867,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4b923e307f5b",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mash Feed Distribution Dust System",
     "category": "C",
@@ -6882,13 +6882,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a9d0d600b982",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mash Transfer Conveyor",
     "category": "C",
@@ -6897,13 +6897,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f565916fda67",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Breakers",
     "category": "C",
@@ -6912,14 +6912,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3d90d906e605",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Furnace Filters",
     "category": "C",
     "quantity": 1,
@@ -6927,14 +6927,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "982dfddb59d7",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Boiler",
     "category": "A",
     "quantity": 1,
@@ -6942,14 +6942,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "daaf226a37de",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Steam Traps",
     "category": "C",
     "quantity": 1,
@@ -6957,14 +6957,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8dcf734dd514",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Oiler",
     "category": "B",
     "quantity": 1,
@@ -6972,14 +6972,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2fd9376bd534",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid Alimet System",
     "category": "B",
     "quantity": 1,
@@ -6987,14 +6987,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "54f5977d1fe0",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid L-lysine  System",
     "category": "B",
     "quantity": 1,
@@ -7002,14 +7002,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "96b729e48516",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Fat Storage Tank",
     "category": "B",
     "quantity": 1,
@@ -7017,14 +7017,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "544c60177335",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Wash Mill",
     "category": "B",
     "quantity": 1,
@@ -7032,14 +7032,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d1e75e934119",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Air Compressor",
     "category": "B",
     "quantity": 1,
@@ -7047,14 +7047,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "af73ac2a4054",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Grain Dryer",
     "category": "B",
     "quantity": 1,
@@ -7062,13 +7062,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d9398cf5593a",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Micro Auger",
     "category": "B",
@@ -7077,13 +7077,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "cc99f195eca9",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Ingredient Auger",
     "category": "C",
@@ -7092,13 +7092,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "24802373d891",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gearbox",
     "category": "C",
@@ -7107,13 +7107,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4b986eeb78d3",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Grinding House Bag",
     "category": "C",
@@ -7122,13 +7122,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f122f15d3689",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Top Floor House Bag",
     "category": "C",
@@ -7137,13 +7137,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "10e78f58b316",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Mixer",
     "category": "B",
@@ -7152,13 +7152,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e4854c40e7e6",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Micro System Transfer Drag",
     "category": "B",
@@ -7167,13 +7167,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8442858320b8",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Scales (Bin, Vent Filter and Mixer Vent Filter)",
     "category": "B",
@@ -7182,13 +7182,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ccd58eec0364",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Hammer Mill)",
     "category": "B",
@@ -7197,13 +7197,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "60c1cee558e5",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gating",
     "category": "C",
@@ -7212,13 +7212,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8c06373a03d4",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Mill",
     "category": "B",
@@ -7227,13 +7227,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6f15bcc30832",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Conditioner",
     "category": "B",
@@ -7242,13 +7242,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "77908fcd81e4",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Cooler",
     "category": "C",
@@ -7257,13 +7257,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "08a3a42ee5c1",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Leg",
     "category": "C",
@@ -7272,13 +7272,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "761ddebaf3b8",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Shaker",
     "category": "B",
@@ -7287,13 +7287,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a61922fa17ba",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Conveyer",
     "category": "C",
@@ -7302,13 +7302,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "59a64718e5ad",
     "facility": "Feed Mill",
     "location": "Batching-Grinding",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Pellet Steamline",
     "category": "C",
@@ -7317,13 +7317,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page2.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bc97be083b3a",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Eyewash Station",
     "category": "C",
@@ -7332,13 +7332,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a84c5eb07e2e",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Generator",
     "category": "A",
@@ -7347,13 +7347,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ad9c39711915",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Branch Equipment",
     "category": "B",
@@ -7362,13 +7362,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ab566e0d4672",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Panelboards",
     "category": "B",
@@ -7377,13 +7377,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c753e71cc2ee",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Bin Level Sensor",
     "category": "B",
@@ -7392,14 +7392,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ec23ed3d7b94",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Building Foundation",
     "category": "A",
     "quantity": 1,
@@ -7407,14 +7407,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "fa26abc0e477",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Ceiling Surface",
     "category": "B",
     "quantity": 1,
@@ -7422,14 +7422,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "9494d2a2b955",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Landscaping",
     "category": "C",
     "quantity": 1,
@@ -7437,14 +7437,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "19794e3f4206",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Office Filters",
     "category": "C",
     "quantity": 1,
@@ -7452,14 +7452,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3ee7f36d643c",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Temp Bearing Scanners",
     "category": "B",
     "quantity": 1,
@@ -7467,14 +7467,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "6a2151603ffa",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds - Roads/Parking",
     "category": "C",
     "quantity": 1,
@@ -7482,14 +7482,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bdeea631f218",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Roofing",
     "category": "A",
     "quantity": 1,
@@ -7497,14 +7497,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "c08e1b749110",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure - Siding Interior",
     "category": "B",
     "quantity": 1,
@@ -7512,14 +7512,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a6a6b135eee9",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Trusses",
     "category": "A",
     "quantity": 1,
@@ -7527,14 +7527,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "717eaf79cc95",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Grounds",
     "name": "Grounds – Vegetation",
     "category": "C",
     "quantity": 1,
@@ -7542,13 +7542,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4cf599ce8f0f",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Bin Deck",
     "category": "B",
@@ -7557,13 +7557,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bd859270e880",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Bindicator",
     "category": "B",
@@ -7572,13 +7572,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d3e5c66e76f8",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Loadout Shuttle Conveyor Bay",
     "category": "B",
@@ -7587,13 +7587,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "25254b26ef0d",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Loadout Collection Conveyor Bay",
     "category": "B",
@@ -7602,13 +7602,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a42aae9761b3",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Truck Scale Bay",
     "category": "B",
@@ -7617,13 +7617,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5fae419be684",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Roll Up Door Bay",
     "category": "B",
@@ -7632,13 +7632,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "fd3966d9aece",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Cross Conveyor Bay",
     "category": "C",
@@ -7647,13 +7647,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "209f89f94a32",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gearbox",
     "category": "C",
@@ -7662,13 +7662,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "11616bbc4d0a",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Grain Reclaim Leg",
     "category": "C",
@@ -7677,13 +7677,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "49b45d6fb12d",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Batching/Grinding",
     "subsystem": "",
     "name": "Whole Reclaim Conveyor",
     "category": "C",
@@ -7692,13 +7692,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2f30041c96cf",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "AED",
     "category": "C",
@@ -7707,13 +7707,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3cc299973442",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Main Lift",
     "category": "A",
@@ -7722,13 +7722,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "29289dcd9084",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Building Monitoring System",
     "category": "B",
@@ -7737,13 +7737,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f54690148249",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Intrusion Alarm",
     "category": "B",
@@ -7752,13 +7752,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "06bd2cdd048b",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Communications Switch",
     "category": "C",
@@ -7767,13 +7767,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4fac1bb61dcb",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Fences and Gates",
     "category": "C",
@@ -7782,13 +7782,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "743f58f07354",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "UPS",
     "category": "C",
@@ -7797,13 +7797,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "24c66bf68396",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Signage",
     "category": "C",
@@ -7812,13 +7812,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ce7764334d79",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "Pallet Lift",
     "category": "A",
@@ -7827,13 +7827,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e75d92844423",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "PPE",
     "category": "C",
@@ -7842,13 +7842,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dc613b6d3e18",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Safety&Security",
     "subsystem": "",
     "name": "First Aid Station",
     "category": "C",
@@ -7857,13 +7857,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4123ecf23423",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Utility",
     "category": "C",
@@ -7872,13 +7872,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "67defc6b76eb",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Service Main",
     "category": "A",
@@ -7887,13 +7887,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "3c8e11307f98",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "ATS",
     "category": "A",
@@ -7902,13 +7902,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "8a8e0c6c39ec",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Switchboards",
     "category": "C",
@@ -7917,13 +7917,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "bb8903a7ddda",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Lighting",
     "category": "C",
@@ -7932,13 +7932,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e1a1545d3e96",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Temp Sensor",
     "category": "C",
@@ -7947,13 +7947,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "ddfb5f4581db",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Humidity Sensor",
     "category": "C",
@@ -7962,13 +7962,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5dbe76d587ba",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Gas Sensor (H2S, CO, CO2, NH3)",
     "category": "C",
@@ -7977,13 +7977,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "dcabe8dc9569",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Static Air Sensor",
     "category": "C",
@@ -7992,13 +7992,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f10a906f002d",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Override Sensor",
     "category": "C",
@@ -8007,13 +8007,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f20b9b3bb63a",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Building Automation System",
     "subsystem": "",
     "name": "Weather Sensor",
     "category": "C",
@@ -8022,14 +8022,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "5c540715af3f",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Structure",
     "name": "Structure – Insulation",
     "category": "B",
     "quantity": 1,
@@ -8037,14 +8037,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4445a7f8b6a4",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – Server Rack",
     "category": "C",
     "quantity": 1,
@@ -8052,14 +8052,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "9a2f2f0683d9",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – ISP Modem",
     "category": "C",
     "quantity": 1,
@@ -8067,14 +8067,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "da73aca8a8ee",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "IT",
     "name": "IT – UPS/Power Supply",
     "category": "C",
     "quantity": 1,
@@ -8082,13 +8082,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b331c143c444",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Loadout",
     "subsystem": "",
     "name": "Leg Boots",
     "category": "C",
@@ -8097,13 +8097,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "542b4d19dab8",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Receiving",
     "subsystem": "",
     "name": "Gating",
     "category": "C",
@@ -8112,13 +8112,13 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "e8036540a7ef",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
+    "system": "Electrical",
     "subsystem": "",
     "name": "Breakers",
     "category": "C",
@@ -8127,14 +8127,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "be5d2b796f33",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Furnace Filters",
     "category": "C",
     "quantity": 1,
@@ -8142,14 +8142,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1a1fb4f67664",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Boiler",
     "category": "A",
     "quantity": 1,
@@ -8157,14 +8157,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "d883d9f75789",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "HVAC",
     "name": "HVAC – Steam Traps",
     "category": "C",
     "quantity": 1,
@@ -8172,14 +8172,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "f097d349b8ad",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other - Oiler",
     "category": "B",
     "quantity": 1,
@@ -8187,14 +8187,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "b0915b729343",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid Alimet System",
     "category": "B",
     "quantity": 1,
@@ -8202,14 +8202,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2fe7e61dca2f",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Liquid L-lysine  System",
     "category": "B",
     "quantity": 1,
@@ -8217,14 +8217,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "2852b3227dbe",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Fat Storage Tank",
     "category": "B",
     "quantity": 1,
@@ -8232,14 +8232,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "1ae04ff52503",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Wash Mill",
     "category": "B",
     "quantity": 1,
@@ -8247,14 +8247,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "4fc934947412",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Air Compressor",
     "category": "B",
     "quantity": 1,
@@ -8262,14 +8262,14 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   },
   {
     "id": "a6130e16160f",
     "facility": "Feed Mill",
     "location": "Loadout",
-    "system": "Needs classification",
-    "subsystem": "",
+    "system": "Balance of Asset",
+    "subsystem": "Other",
     "name": "Other – Grain Dryer",
     "category": "B",
     "quantity": 1,
@@ -8277,6 +8277,6 @@
     "aliases": [],
     "source": "Oracle Maintenance Visio New-Feed Mill - Jackie M.vsdx / page3.xml",
     "version": "2026.11",
-    "needsReview": true
+    "needsReview": false
   }
 ]
